@@ -127,7 +127,7 @@ endif
 " ---------------
 " airline
 " ---------------
-let g:airline_theme = 'jellybeans'
+ret g:airline_theme = 'solarized'
 let g:airline_powerline_fonts = 1
 let g:airline_detect_modified = 1
 let g:airline#extensions#whitespace#enabled = 1
